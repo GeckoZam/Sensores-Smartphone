@@ -1,4 +1,8 @@
 # Sensores Smartphone
+
+Alumno: Salazar Diaz Samuel
+No. Control: 19211729
+
 | Sensor | Definicion | Ejemplo |
 |----------|----------|----------|
 | Proximidad | Calcula la distancia entre dos objetos, para probarlo usualmente movemos nuestra mano o rostro hacia enfrente y atrás de la pantalla. | ![](/Imagenes/proximidad.png) |
