@@ -1,6 +1,7 @@
 # Sensores Smartphone
 
 Alumno: Salazar Diaz Samuel
+
 No. Control: 19211729
 
 | Sensor | Definicion | Ejemplo |
